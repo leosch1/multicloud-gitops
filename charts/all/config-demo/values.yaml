@@ -12,3 +12,4 @@ global:
 
 clusterGroup:
   isHubCluster: true
+  name: group-one
